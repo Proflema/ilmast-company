@@ -1,0 +1,137 @@
+.seach-box {
+    padding-top: 20px;
+    padding-bottom: 14px;
+    padding-left: 5px ;
+    padding-right: 5px;
+    vertical-align: top;
+    width: 400px;
+    font-weight: bold;
+    border-style: solid;
+    border-radius: 150px;
+    margin-left:  400px;
+    margin-right: 400px;
+    display: inline-block;
+}
+
+
+.login-button {
+    padding-top: 10px;
+    padding-bottom: 3px;
+    padding-left: 5px ;
+    padding-right: 5px;
+    vertical-align: top;
+    font-weight: bold;
+    font-size: 18px;
+    text-align: top;
+    display: inline-block;
+    margin-top: 0px;
+    margin-bottom: 0px;  
+    transition: 0.15s;
+}
+.login-button:hover {
+    cursor: pointer;
+    color: rgb(8, 23, 156);   
+}
+.login-button:active {
+    opacity: 0.5;
+}
+
+
+.about-button {
+    padding-top: 20px;
+    padding-bottom: 14px;
+    padding-left: 5px ;
+    padding-right: 5px;
+    vertical-align: top;
+    width: 60px;
+    font-weight: bold;
+    font-size:20px;
+    display: inline-block;
+    margin-top: 0px;
+    text-align: center;
+    margin-bottom: 0px;  
+    transition: 0.15s;
+    margin-left: 20px;
+}
+.about-button:hover {
+    color: rgb(8, 23, 156);
+    cursor: pointer;
+}
+
+.about-button:active {
+    opacity: 0.5;
+}
+
+
+.contact-button { 
+    padding-top: 20px;
+    padding-bottom: 14px;
+    padding-left: 5px ;
+    padding-right: 5px;
+    vertical-align: top;
+    width: 60px; 
+    font-weight: bold;
+    font-size:20px;
+    display: inline-block;
+    margin-top: 0px;
+    text-align: center;
+    margin-bottom: 0px;  
+    transition: 0.15s;
+    margin-left: 20px;
+    width: fit-content;
+}
+
+.about-button:hover{
+    color: rgb(8, 23, 156);;
+    cursor: pointer;
+}
+.about-button:active {
+    opacity: 0.5;
+}
+.service-button {
+    padding-top: 20px;
+    padding-bottom: 14px;
+    padding-left: 5px ;
+    padding-right: 5px;
+    vertical-align: top;
+    width: 60px;
+    font-weight: bold;
+    font-size:20px;
+    display: inline-block;
+    margin-top: 0px;
+    text-align: center;
+    margin-bottom: 0px;  
+    transition: 0.15s;
+    margin-left: 20px;
+    width: fit-content;
+}
+.service-button:hover {
+    cursor: pointer;
+    color: rgb(8, 23, 156);
+}
+.service-button:active {
+    opacity: 0.5;
+}
+.job-button {
+    padding-top: 20px;
+    padding-bottom: 14px;
+    padding-left: 5px ;
+    padding-right: 5px;
+    vertical-align: top;
+    width: 60px;
+    font-weight: bold;
+    font-size:20px;
+    display: inline-block;
+    margin-top: 0px;
+    text-align: center;
+    margin-bottom: 0px;  
+    transition: 0.15s;
+    margin-left: 20px;
+}
+.job-button:hover {
+    cursor: pointer;
+    color: rgb(8, 23, 156);
+}
+.job-button:active {
+    opacity: 0.5;
+}

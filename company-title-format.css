@@ -1,0 +1,54 @@
+
+.back-color {
+    background-size: 100px;
+    width: 150px;
+    display: inline-block;
+    text-align: center;
+}
+
+
+
+.padding-format {
+    padding-left: 0px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    padding-right: 0px;
+}
+
+.line-format { 
+    color: black;
+    text-decoration: underline;
+}
+
+.company-title {
+    color: green;
+    margin-bottom: 0;
+    padding-left: 10px;
+    padding-top: 10px;margin-left: 0px;
+    padding-bottom: 0px;
+    padding-right: 10px;
+    font-size:30px;
+    font-weight: bold;
+    border:none;
+}
+
+.company-word{
+    font-weight: bold;
+    padding-right: 10px;
+    font-weight: bold;
+    margin-left: 0px;
+    margin-top: 30px;
+
+}
+.i {
+    color: green;
+}
+.l {
+    color: rgba(12, 12, 151, 0.829);
+}
+.ma {
+    color: rgba(236, 16, 16, 0.644);
+}
+.st {
+    color: rgba(219, 219, 25, 0.452);
+}
